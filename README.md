@@ -28,11 +28,11 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original.svg" title='moodle'>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" title='wordpress'>
   <img align="center" alt="Rafa-CSS"  width="30" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/totvs_icon_131953.png" title='TOTVS RM'>
-</div>
+
 
 ##
 <a href="https://www.linkedin.com/in/johnny-almeida-bueno-751a2673/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ![Snake animation](https://github.com/johnnyBueno/johnnyBueno/blob/output/github-contribution-grid-snake.svg)
 
- 
+ </div>
